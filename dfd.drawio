@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.9">
   <diagram name="Page-1" id="5ThxFrL3TnL8J4vDY3Np">
-    <mxGraphModel dx="2966" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,7 +442,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-_YYDmbUAC1zQdvUgrH0-105" value="Database" style="shape=cylinder;fillColor=#C9DAF8;strokeColor=#3D85C6;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="100" y="525" width="220" height="60" as="geometry" />
+          <mxGeometry x="100" y="410" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-_YYDmbUAC1zQdvUgrH0-106" value="Selesai" style="shape=terminator;fillColor=#D9EAD3;strokeColor=#6AA84F;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="990" width="120" height="60" as="geometry" />
