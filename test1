@@ -1,9 +1,102 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.14">
   <diagram name="Page-1" id="Ucd-15hWY3rphkwD1F9V">
-    <mxGraphModel>
+    <mxGraphModel dx="86" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZ4gwFzsbiYyOOBNcmkm-57" target="IZ4gwFzsbiYyOOBNcmkm-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-52" value="Riwayat_Peminjaman" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-51">
+          <mxGeometry x="-0.0221" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZ4gwFzsbiYyOOBNcmkm-57" target="IZ4gwFzsbiYyOOBNcmkm-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="210" />
+              <mxPoint x="1050" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-54" value="ID_Siswa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-53">
+          <mxGeometry x="-0.1028" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.995;exitY=0.339;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IZ4gwFzsbiYyOOBNcmkm-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="110" as="sourcePoint" />
+            <mxPoint x="1511" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-56" value="Info_Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-55">
+          <mxGeometry x="-0.1701" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-57" value="0.0&lt;br&gt;Sistem Informasi Perpustakaan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="70" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-58" value="Siswa" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1552.0222222222224" y="90" as="sourcePoint" />
+            <mxPoint x="1311" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1552" y="50" />
+              <mxPoint x="1311" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-60" value="Input_Siswa" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-59">
+          <mxGeometry x="-0.08" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1511" y="150" as="sourcePoint" />
+            <mxPoint x="1370" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-62" value="Input_Buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-61">
+          <mxGeometry x="0.0355" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-63" value="Admin" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1511" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IZ4gwFzsbiYyOOBNcmkm-58" target="IZ4gwFzsbiYyOOBNcmkm-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="50" />
+              <mxPoint x="1307" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-65" value="ID_Siswa_Peminjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-64">
+          <mxGeometry x="-0.0874" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IZ4gwFzsbiYyOOBNcmkm-63" target="IZ4gwFzsbiYyOOBNcmkm-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="210" />
+              <mxPoint x="1320" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IZ4gwFzsbiYyOOBNcmkm-67" value="Data_Buku" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IZ4gwFzsbiYyOOBNcmkm-66">
+          <mxGeometry x="-0.0621" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
